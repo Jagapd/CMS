@@ -8,9 +8,13 @@ Test_Plan - Detailed test plan which also has a document attached named QA effor
 
 Test_case - Contains detailed test case with priority classification of test case. 
 	I have also added keyword to mark for regression testcase.
+	
 Test_Execution_Evidence - Containing execution evidence with status of each test case.
+
 Defect_Report - Contains test report with total bug count and classification count based on priority of bug.
+
 Issue_Report_Details - Contains detailed doc with screenshot of bugs
+
 Demo folder contains demo video of execution of bug
 
 
