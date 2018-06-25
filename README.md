@@ -3,7 +3,9 @@ CMS Test Project
 Task has below documents
 
 Application_testing_checklist - Contains detailed checklist of application.
+
 Test_Plan - Detailed test plan which also has a document attached named QA effort estimation document.
+
 Test_case - Contains detailed test case with priority classification of test case. 
 	I have also added keyword to mark for regression testcase.
 Test_Execution_Evidence - Containing execution evidence with status of each test case.
